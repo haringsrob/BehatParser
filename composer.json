@@ -6,11 +6,11 @@
     "homepage": "http://www.example.org/",
     "license": "",
     "require": {
-        "php": "7.1.*",
-        "phpunit/PHPUnit": "3.7.*",
-        "instaclick/php-code-sniffer": "dev-master"
+        "php": "7.1.*"
     },
     "require-dev": {
+        "squizlabs/php_codesniffer": "3.*",
+        "phpunit/PHPUnit": "3.7.*"
     },
     "autoload": {
         "psr-0": {
