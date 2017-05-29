@@ -8,5 +8,4 @@ class FeatureContextWithoutStepAnnotation
     public function exampleStepWithoutAnnotation(): void
     {
     }
-
 }

@@ -1,5 +1,9 @@
 <?php
+
+namespace BehatParserTest;
+
 use BehatParser\Parser;
+use PHPUnit_Framework_TestCase;
 
 /**
  * Tests the basic parsing methods.
@@ -104,5 +108,4 @@ class BehatParserClassParsingTest extends PHPUnit_Framework_TestCase
             $step_definitions
         );
     }
-
 }

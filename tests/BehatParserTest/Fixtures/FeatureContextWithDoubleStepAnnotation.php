@@ -12,5 +12,4 @@ class FeatureContextWithDoubleStepAnnotation
     public function exampleStepWithDoubleAnnotation(): void
     {
     }
-
 }

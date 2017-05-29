@@ -14,5 +14,4 @@ class FeatureContextWithAllPatterns
     public function exampleStepWithAllPrefixAnnotation(): void
     {
     }
-
 }

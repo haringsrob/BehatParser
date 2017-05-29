@@ -1,6 +1,10 @@
 <?php
+
+namespace BehatParserTest;
+
 use BehatParser\Matcher;
 use BehatParser\Parser;
+use PHPUnit_Framework_TestCase;
 
 /**
  * Tests the basic matching methods.
