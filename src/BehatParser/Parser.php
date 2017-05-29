@@ -9,7 +9,6 @@ class Parser
     const DOCBLOCK_STEP_PATTERN = '/(?:@When|@But|@Given|@Then){1}(?:\s){1}(.+)/';
 
     private $classes = [];
-
     private $availableStepsList = [];
 
     /**

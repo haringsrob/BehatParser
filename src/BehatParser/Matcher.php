@@ -8,8 +8,6 @@ class Matcher
     private $behatParser;
 
     /**
-     * Matcher constructor.
-     *
      * @param \BehatParser\Parser $behatParser
      */
     public function __construct(Parser $behatParser)
