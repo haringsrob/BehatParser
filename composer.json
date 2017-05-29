@@ -6,7 +6,7 @@
     "homepage": "http://www.example.org/",
     "license": "",
     "require": {
-        "php": ">=5.3.3",
+        "php": "7.1.*",
         "phpunit/PHPUnit": "3.7.*",
         "instaclick/php-code-sniffer": "dev-master"
     },
