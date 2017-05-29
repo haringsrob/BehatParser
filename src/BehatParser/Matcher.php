@@ -41,6 +41,4 @@ class Matcher
     {
         $string = preg_replace('/"([^"]*)"/', '""', $string);
     }
-
-
 }
